@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LGBeauty.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>BF2FE0146A56553085606C66A6755246C3B894AA</string>
+				<key>dateExpires</key>
+				<string>2020/3/29</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>LS7Q47HL8S.com.shouxi.app.test</string>
+				<key>aps-environment</key>
+				<string>production</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>LS7Q47HL8S</string>
+				<key>get-task-allow</key>
+				<false/>
+			</dict>
+			<key>name</key>
+			<string>SealTalk.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>462efabd-12c7-45ee-a644-a601b02ef09f</string>
+				<key>name</key>
+				<string>XC iOS: com.shouxi.app.test</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>LS7Q47HL8S</string>
+				<key>name</key>
+				<string>Beijing Yingzhixingda Information Technology CO.,LTD.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
